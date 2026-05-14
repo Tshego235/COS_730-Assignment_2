@@ -8,7 +8,7 @@ class Reviewer {
     private boolean overloaded;
 
     private java.util.Random random =
-            new java.util.Random(42);
+            new java.util.Random();
 
     public Reviewer(
             String name,
