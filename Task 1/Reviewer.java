@@ -2,7 +2,7 @@
 class Reviewer {
 
     private String name;
-    private java.util.Random random = new java.util.Random(42);
+    private java.util.Random random = new java.util.Random();
 
     public Reviewer(String name) {
         this.name = name;
