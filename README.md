@@ -21,19 +21,18 @@ A refactored and improved version that reduces coupling, improves cohesion, simp
 
 ## Compile Baseline
 	cd Task1 
-  javac *.java
+  	javac *.java
 
 # Run Baseline
-  java BaselineMain
+  	java BaselineMain
 
-# Compile Optimised
+## Compile Optimised
 	cd Task5
-  javac *.java
+  	javac *.java
 
 # Run Optimised
 	java OptimisedMain
 
-# Compile Everything
 
 ---
 
