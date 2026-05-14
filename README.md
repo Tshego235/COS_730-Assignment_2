@@ -19,6 +19,22 @@ A direct implementation of the provided sequence diagram with intentionally pres
 ### Task 5 — Optimised Implementation
 A refactored and improved version that reduces coupling, improves cohesion, simplifies logic, and improves maintainability and efficiency.
 
+## Compile Baseline
+	cd Task1 
+  javac *.java
+
+# Run Baseline
+  java BaselineMain
+
+# Compile Optimised
+	cd Task5
+  javac *.java
+
+# Run Optimised
+	java OptimisedMain
+
+# Compile Everything
+
 ---
 
 ## Features
@@ -62,18 +78,6 @@ A refactored and improved version that reduces coupling, improves cohesion, simp
 │
 └── README.md
 
-# Compile Baseline
-	cd Task1 
-  javac *.java
+---
 
-# Run Baseline
-  java BaselineMain
 
-# Compile Optimised
-	cd Task5
-  javac *.java
-
-# Run Optimised
-	java OptimisedMain
-
-# Compile Everything
