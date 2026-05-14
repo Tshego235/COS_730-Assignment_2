@@ -61,3 +61,19 @@ A refactored and improved version that reduces coupling, improves cohesion, simp
 │   └── CallTracker.java
 │
 └── README.md
+
+# Compile Baseline
+	cd Task1 
+  javac *.java
+
+# Run Baseline
+  java BaselineMain
+
+# Compile Optimised
+	cd Task5
+  javac *.java
+
+# Run Optimised
+	java OptimisedMain
+
+# Compile Everything
